@@ -1,3 +1,3 @@
 # Осн. скрипт игры
 print("test")
-big penis = 10
+big_penis = 20
