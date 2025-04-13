@@ -4,4 +4,4 @@
 </p>
 <h1 align="center"><strong>Привет, это мой проект для школы Logika!</strong></h1>
 
-<h1 align="center">Python-project---Tanks-game</h1>
+<h2 align="center">Python-project---Tanks-game</h2>
